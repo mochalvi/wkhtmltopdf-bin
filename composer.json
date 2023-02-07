@@ -1,0 +1,11 @@
+{
+    "name": "malvi/wkhtmltopdf-bin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Moch Alvi Romadhon",
+            "email": "m.alvi.romadhon@gmail.com"
+        }
+    ],
+    "require": {}
+}
