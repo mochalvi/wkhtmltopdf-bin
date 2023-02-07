@@ -9,5 +9,11 @@
     ],
     "require": {
         "php": ">=7.0.0"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mochalvi/wkhtmltopdf-bin"
+        }
+    ]
 }
