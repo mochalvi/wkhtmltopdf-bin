@@ -7,5 +7,7 @@
             "email": "m.alvi.romadhon@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    }
 }
